@@ -1,6 +1,6 @@
 package algo18.Tests;
 
-import org.testng.annotations.Test;
+import org.junit.Test;
 import algo18.Queue;
 
 public class QueueTest
