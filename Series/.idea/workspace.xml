@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d092a0-c1ac-458e-938a-a25fe114efab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__Arquillian_JUnit_Release.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Series.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Series.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18/Tests/QueueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Tests/QueueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -175,7 +169,7 @@
       <updated>1569255089059</updated>
       <workItem from="1569255091899" duration="6819000" />
       <workItem from="1569609929077" duration="58000" />
-      <workItem from="1569612078190" duration="2083000" />
+      <workItem from="1569612078190" duration="3641000" />
     </task>
     <servers />
   </component>
