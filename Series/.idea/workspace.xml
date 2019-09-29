@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18d092a0-c1ac-458e-938a-a25fe114efab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Calculator$Mode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Calculator$Mode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/IRpnEvaluationAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/IRpnEvaluationAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/IShuntingYardAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/IShuntingYardAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Queue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Queue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/RpnEvaluationAlgorithm$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/RpnEvaluationAlgorithm$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/RpnEvaluationAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/RpnEvaluationAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/ShuntingYardAlgorithm.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/ShuntingYardAlgorithm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Stack$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Stack$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Stack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Tests/QueueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Tests/QueueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Tests/RpnEvaluationAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Tests/RpnEvaluationAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Tests/ShuntingYardAlgorithmTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Tests/ShuntingYardAlgorithmTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Tests/StackTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Tests/StackTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token$Bracket.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token$Bracket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token$Function.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token$Function.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token$OperatorType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token$OperatorType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token$TokenType.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token$TokenType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Token.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Token.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Tests/StackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Tests/StackTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +43,104 @@
     <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="41" selection-start-column="41" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Stack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="614">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Tests/StackTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Token.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/IShuntingYardAlgorithm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/algo18/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -30,8 +154,64 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/algo18/Main.java" />
+        <option value="$PROJECT_DIR$/src/algo18/Tests/StackTest.java" />
+        <option value="$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/algo18/Stack.java" />
+        <option value="$PROJECT_DIR$/src/algo18/Queue.java" />
+        <option value="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2500" />
+    <option name="y" value="220" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
   <component name="ProjectId" id="1RQqyikw1DuTJPbpjirDS4s6hwR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Series" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Series" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Series" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Series" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Series" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Series" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Series" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Series" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="algo18" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
@@ -71,7 +251,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.QueueTest">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo18.Main" />
       <module name="Series" />
@@ -115,6 +295,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ShuntingYardAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo18.Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="algo18.Tests" />
+      <option name="MAIN_CLASS_NAME" value="algo18.Tests.ShuntingYardAlgorithmTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Series" />
       <extension name="coverage">
@@ -130,30 +325,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo18.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algo18.Tests" />
-      <option name="MAIN_CLASS_NAME" value="algo18.Tests.QueueTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.QueueTest" />
-        <item itemvalue="JUnit.StackTest" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.ShuntingYardAlgorithmTest" />
+        <item itemvalue="JUnit.StackTest" />
+        <item itemvalue="JUnit.QueueTest" />
         <item itemvalue="JUnit.RpnEvaluationAlgorithmTest" />
-        <item itemvalue="TestNG.QueueTest" />
       </list>
     </recent_temporary>
   </component>
@@ -170,8 +348,79 @@
       <workItem from="1569255091899" duration="6819000" />
       <workItem from="1569609929077" duration="58000" />
       <workItem from="1569612078190" duration="3641000" />
+      <workItem from="1569753877160" duration="5378000" />
     </task>
     <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 07m 38s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 08m 57s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StackTest - 2019.09.29 at 13h 18m 09s.xml">
+      <configuration name="StackTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 24m 12s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 44m 55s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 53m 32s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 00m 53s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 01m 44s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 04m 36s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 04m 42s.xml">
+      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5378000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1990" y="27" width="2490" height="1413" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.1297054" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3257635" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39937353" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -182,12 +431,126 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///usr/lib/jvm/jdk1.8.0_211/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="353" column="23" selection-start-line="353" selection-start-column="23" selection-end-line="353" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/IShuntingYardAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="29" column="44" selection-start-line="29" selection-start-column="44" selection-end-line="29" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="614">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Tests/StackTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="41" selection-start-column="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>

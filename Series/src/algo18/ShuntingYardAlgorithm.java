@@ -1,3 +1,5 @@
+// Groupe : Gremaud Lucien, Paunoiu Bruno
+
 package algo18;
 
 public class ShuntingYardAlgorithm implements IShuntingYardAlgorithm
@@ -6,25 +8,37 @@ public class ShuntingYardAlgorithm implements IShuntingYardAlgorithm
     public Queue<Token> convertToRPN(Queue<Token> input)
     {
         Queue<Token> output = new Queue<>();
-        Stack<Token> operatorStack = new Stack<>();
+        Stack<Token> opStack = new Stack<>();
 
-        while(!input.isEmpty()){
-            Token read = input.dequeue();
+        while(!input.isEmpty()) {
+            Token token = input.dequeue();
 
-            if(read.type == Token.TokenType.Numeric){
-                output.enqueue(read);
-            } else if(read.type == Token.TokenType.Function){
-                operatorStack.push(read);
-            } else if(read.type == Token.TokenType.Operator){
-
-                Token topOperator = operatorStack.peek();
-                while((topOperator.type == Token.TokenType.Function)
-                    || (topOperator.getOperatorPrecedence() >= read.getOperatorPrecedence())
-                    && (topOperator.toString() != "("))
-                {
-
+            if(token.type == Token.TokenType.Operator) {
+                while(!opStack.isEmpty() && (opStack.peek().asBracket != Token.Bracket.Open) && (token.getOperatorPrecedence() <= opStack.peek().getOperatorPrecedence())){
+                    output.enqueue(opStack.pop());
                 }
+                opStack.push(token);
+
+            }
+            else if(token.asBracket == Token.Bracket.Open) {
+                opStack.push(token);
+            }
+            else if(token.asBracket == Token.Bracket.Close) {
+                while(!opStack.isEmpty() && (opStack.peek().asBracket != Token.Bracket.Open)){
+                    output.enqueue(opStack.pop());
+                }
+                opStack.pop();
+            }
+            else {
+                output.enqueue(token);
             }
         }
+
+        while(!opStack.isEmpty())
+        {
+            output.enqueue(opStack.pop());
+        }
+
+        return output;
     }
 }

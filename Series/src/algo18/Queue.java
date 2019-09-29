@@ -46,7 +46,7 @@ public class Queue<T> {
     }
 
     public boolean isEmpty() {
-        if(size == 0){
+        if(head.next == end){
             return true;
         } else {
             return false;

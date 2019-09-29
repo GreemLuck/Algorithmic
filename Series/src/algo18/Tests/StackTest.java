@@ -7,6 +7,8 @@ public class StackTest {
     @Test
     public void pop() {
         Stack<Integer> integerStack = new Stack<>();
+
+        assert integerStack.isEmpty();
         integerStack.push(1);
 
         assert !integerStack.isEmpty();
