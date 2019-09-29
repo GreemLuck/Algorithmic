@@ -42,3 +42,10 @@ public class ShuntingYardAlgorithm implements IShuntingYardAlgorithm
         return output;
     }
 }
+
+/*
+Assignement 2
+Exercise 1.3.3
+
+The sequences that cannot occur are: b, f, g
+ */
