@@ -32,6 +32,9 @@ public class RpnEvaluationAlgorithm implements IRpnEvaluationAlgorithm
                     case Divide:
                         stack.push(op1/op2);
                         break;
+                    case Power:
+                        stack.push(Math.pow(op1, op2));
+                        break;
                 }
             }
             else if (token.type == Token.TokenType.Function)

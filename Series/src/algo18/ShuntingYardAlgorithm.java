@@ -28,6 +28,8 @@ public class ShuntingYardAlgorithm implements IShuntingYardAlgorithm
                     output.enqueue(opStack.pop());
                 }
                 opStack.pop();
+            } else if(token.type == Token.TokenType.Function){
+                opStack.push(token);
             }
             else {
                 output.enqueue(token);
