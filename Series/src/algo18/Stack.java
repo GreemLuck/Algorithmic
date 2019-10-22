@@ -4,7 +4,7 @@ public class Stack<T>
 {
     private Node head;
     private Node end;
-    private int size;
+    public int size;
 
     public Stack(){
         head = new Node(null, null);

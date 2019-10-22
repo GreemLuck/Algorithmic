@@ -5,10 +5,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18d092a0-c1ac-458e-938a-a25fe114efab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/greemluck.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/BinSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/Test/BinSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/ThreeSumFast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie3/exo5/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie4/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie4/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Serie4/ShellSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Series.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Series.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/S2_GLucien_PBruno.zip" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/S2_GLucien_PBruno.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Series/algo18/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Series/algo18/Stack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/S2_GLucien_PBruno.zip" beforeDir="false" afterPath="$PROJECT_DIR$/src/S2_GLucien_PBruno.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Serie3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serie3/exo4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Serie3/ex4.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/Serie3/exo4/ex4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo18/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo18/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Calculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/IRpnEvaluationAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/IShuntingYardAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Queue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/RpnEvaluationAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/ShuntingYardAlgorithm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Stack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Tests/QueueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Tests/RpnEvaluationAlgorithmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Tests/ShuntingYardAlgorithmTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../algo18/Token.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,107 +50,153 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Stack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Tests/StackTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Token.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="14" selection-start-column="14" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/IShuntingYardAlgorithm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/algo18/Calculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/ArrayToSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="375">
+                  <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/InsertionSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/ArrayToSortWithVisuals.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/ISortingAlgorithm.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="300">
+                  <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sort.csv">
+              <provider selected="true" editor-type-id="csv-text-editor">
+                <state relative-caret-position="195">
+                  <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+                </state>
+              </provider>
+              <provider editor-type-id="csv-table-editor">
+                <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/Measuremnet.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/algo18/Main.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/Test/BinSearchTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/algo18/Tests/QueueTest.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/SelectionSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="195">
+                  <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/Serie4/ShellSort.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+                  <folding>
+                    <element signature="e#113#114#0" expanded="true" />
+                    <element signature="e#147#148#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="AnnotationType" />
         <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -137,18 +210,37 @@
         <option value="$PROJECT_DIR$/src/algo18/Main.java" />
         <option value="$PROJECT_DIR$/src/algo18/Tests/StackTest.java" />
         <option value="$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java" />
-        <option value="$PROJECT_DIR$/src/algo18/Stack.java" />
         <option value="$PROJECT_DIR$/src/algo18/Queue.java" />
         <option value="$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/algo18/Stack.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/FibonacciSlow.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/Main.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo4/Main.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/Test/BinSearchTest.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/test.txt" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/ThreeSum.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/ThreeSumFast.java" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/BinSearch.java" />
+        <option value="$PROJECT_DIR$/plot.py" />
+        <option value="$PROJECT_DIR$/src/Serie3/exo5/Main.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/ISortingAlgorithm.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/ArrayToSortWithVisuals.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/ArrayToSort.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/Measuremnet.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/InsertionSort.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/ShellSort.java" />
+        <option value="$PROJECT_DIR$/plotScript.R" />
+        <option value="$PROJECT_DIR$/src/Serie4/Main.java" />
+        <option value="$PROJECT_DIR$/src/Serie4/SelectionSort.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2500" />
-    <option name="y" value="220" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="1990" />
+    <option name="y" value="27" />
+    <option name="width" value="1850" />
+    <option name="height" value="1053" />
   </component>
   <component name="ProjectId" id="1RQqyikw1DuTJPbpjirDS4s6hwR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,14 +265,7 @@
               <item name="Series" type="b2602c69:ProjectViewProjectNode" />
               <item name="Series" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algo18" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Series" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Series" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="algo18" type="462c0819:PsiDirectoryNode" />
-              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+              <item name="Serie4" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,18 +288,26 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Serie3" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="Serie3.exo5.Test" />
       <recent name="algo18.Tests" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Serie3/exo5" />
+      <recent name="$PROJECT_DIR$/src/Serie3/exo4" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Serie3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -229,13 +322,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo18.Main" />
+  <component name="RunManager" selected="JUnit.Main.test">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serie3.Main" />
       <module name="Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo18.*" />
+          <option name="PATTERN" value="Serie3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,73 +336,70 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QueueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serie3.exo5.Main" />
       <module name="Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo18.Tests.*" />
+          <option name="PATTERN" value="Serie3.exo5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algo18.Tests" />
-      <option name="MAIN_CLASS_NAME" value="algo18.Tests.QueueTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Serie4.Main" />
+      <module name="Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Serie4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinSearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Series" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Serie3.exo5.Test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Serie3.exo5.Test" />
+      <option name="MAIN_CLASS_NAME" value="Serie3.exo5.Test.BinSearchTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RpnEvaluationAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Main.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Series" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="algo18.Tests.*" />
+          <option name="PATTERN" value="Serie4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="algo18.Tests" />
-      <option name="MAIN_CLASS_NAME" value="algo18.Tests.RpnEvaluationAlgorithmTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ShuntingYardAlgorithmTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo18.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algo18.Tests" />
-      <option name="MAIN_CLASS_NAME" value="algo18.Tests.ShuntingYardAlgorithmTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Series" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo18.Tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="algo18.Tests" />
-      <option name="MAIN_CLASS_NAME" value="algo18.Tests.StackTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="Serie4" />
+      <option name="MAIN_CLASS_NAME" value="Serie4.Main" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.ShuntingYardAlgorithmTest" />
-        <item itemvalue="JUnit.StackTest" />
-        <item itemvalue="JUnit.QueueTest" />
-        <item itemvalue="JUnit.RpnEvaluationAlgorithmTest" />
+        <item itemvalue="JUnit.Main.test" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="JUnit.BinSearchTest" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -328,28 +418,16 @@
       <workItem from="1569612078190" duration="3641000" />
       <workItem from="1569753877160" duration="7436000" />
       <workItem from="1569842440829" duration="528000" />
+      <workItem from="1570471326537" duration="4749000" />
+      <workItem from="1570553453380" duration="9067000" />
+      <workItem from="1571064636055" duration="281000" />
+      <workItem from="1571064931973" duration="2894000" />
+      <workItem from="1571159650072" duration="1000" />
+      <workItem from="1571160696359" duration="1841000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 07m 38s.xml">
-      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 08m 57s.xml">
-      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="StackTest - 2019.09.29 at 13h 18m 09s.xml">
-      <configuration name="StackTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 24m 12s.xml">
-      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 44m 55s.xml">
-      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 13h 53m 32s.xml">
-      <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 00m 53s.xml">
       <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
     </history-entry>
@@ -362,12 +440,30 @@
     <history-entry file="ShuntingYardAlgorithmTest - 2019.09.29 at 14h 04m 42s.xml">
       <configuration name="ShuntingYardAlgorithmTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinSearchTest - 2019.10.08 at 19h 34m 10s.xml">
+      <configuration name="BinSearchTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2019.10.14 at 17h 40m 28s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2019.10.14 at 17h 44m 42s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2019.10.14 at 17h 45m 55s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2019.10.15 at 19h 59m 26s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Main_test - 2019.10.15 at 20h 03m 02s.xml">
+      <configuration name="Main.test" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7964000" />
+    <option name="totallyTimeSpent" value="26797000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1990" y="27" width="2490" height="1413" extended-state="6" />
+    <frame x="1990" y="27" width="1850" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -375,7 +471,41 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13052373" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18181819" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.43947655" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.39937353" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="9" />
+      <window_info anchor="right" id="R Graphics" order="10" />
+      <window_info anchor="right" id="R Packages" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13297872" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -399,7 +529,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -457,13 +587,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo18/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/algo18/Tests/StackTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -480,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/algo18/Tests/ShuntingYardAlgorithmTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="330">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -495,10 +618,142 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/FibonacciSlow.java" />
+    <entry file="file://$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="45" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/algo18/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="109" column="61" selection-start-line="109" selection-start-column="61" selection-end-line="109" selection-end-column="61" />
+        <state relative-caret-position="330">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fibonnaci.csv">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/algo18/Token.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/numbers.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/threesum.csv">
+      <provider selected="true" editor-type-id="csv-text-editor" />
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/ThreeSumFast.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="58" selection-start-line="7" selection-start-column="58" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="20" selection-start-column="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/BinSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="47" column="17" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="29" column="1" selection-start-line="38" selection-start-column="8" selection-end-line="39" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plotScript.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/ISortingAlgorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sort.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/Measuremnet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -509,24 +764,75 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo18/ShuntingYardAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/Serie3/exo5/Test/BinSearchTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="45" lean-forward="true" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
+        <state relative-caret-position="255">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo18/Token.java">
+    <entry file="file://$PROJECT_DIR$/src/algo18/Tests/QueueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/algo18/RpnEvaluationAlgorithm.java">
+    <entry file="file://$PROJECT_DIR$/src/Serie4/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        <state relative-caret-position="75">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/ArrayToSortWithVisuals.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/ArrayToSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Serie4/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -547,6 +853,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
+          <last-edited>No facets are configured</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -593,6 +900,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>jcommon-1.0.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
