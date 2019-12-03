@@ -1,0 +1,11 @@
+department: 12373
+interest: 12408
+american: 15264
+expected: 12598
+national: 16782
+companies: 15761
+officials: 20075
+government: 34119
+business: 16104
+president: 28847
+Time : 6086ms

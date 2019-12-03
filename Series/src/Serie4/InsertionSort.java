@@ -1,6 +1,7 @@
 package Serie4;
 
 public class InsertionSort<T> implements ISortingAlgorithm {
+
     @Override
     public String name() {
         return "InsertionSort";

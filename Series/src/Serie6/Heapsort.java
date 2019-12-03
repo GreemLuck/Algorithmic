@@ -5,7 +5,8 @@ public class Heapsort<T extends Comparable<T>> implements ISortingAlgorithm<T>
     @Override
     public void Sort(T[] array)
     {
-        Heap<T> heap = new Heap<T>();
+        int N = array.length;
+        Heap<T> heap = new Heap<T>(N);
         for (int i = 0; i < array.length; i++)
         {
             heap.insert(array[i]);

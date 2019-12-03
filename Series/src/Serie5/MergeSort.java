@@ -24,7 +24,7 @@ public class MergeSort<T extends Comparable<T>> implements ISortingAlgorithm {
          merge(array, aux, lo, mid, hi);
     }
 
-    private static <T extends Comparable<T>> void merge(Comparable[] array, Comparable[] aux,
+    public static <T extends Comparable<T>> void merge(Comparable[] array, Comparable[] aux,
                                                         int lo, int mid, int hi){
         int i = lo, j = mid+1;
         for (int k = lo; k <= hi; k++){

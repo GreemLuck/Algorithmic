@@ -1,0 +1,10 @@
+according: 9268
+financial: 9406
+companies: 15761
+including: 9885
+political: 10207
+president: 28847
+officials: 20075
+wednesday: 10732
+spokesman: 11188
+yesterday: 10307
